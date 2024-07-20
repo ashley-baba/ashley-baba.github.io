@@ -1,0 +1,16 @@
+.title {
+    text-align: center;
+    }
+    .card {
+    border: solid 1px black;
+    }
+    .cards {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .discription {
+        white-space: pre-wrap;
+        
+    
+    }
